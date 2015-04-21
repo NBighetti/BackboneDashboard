@@ -1,4 +1,4 @@
-/* main stylesheet for BackboneDasboard */
+/* main stylesheet for BackboneDashboard */
 
 body {
   font-family: 'Roboto', 'Calibri', 'Lucida-Sans', 'Arial', sans-serif;
@@ -17,6 +17,7 @@ h1,h2,h3,h4,h5,h6 {
   margin: auto;
   clear: both;
   position: relative;
+  background-color: lightblue;
 }
 
 .block-half {
@@ -26,6 +27,7 @@ h1,h2,h3,h4,h5,h6 {
   padding: 2px;
   position: relative;
   width: 46%;
+  background-color: pink;
 }
 
 .block-third {
@@ -35,6 +37,7 @@ h1,h2,h3,h4,h5,h6 {
   padding: 2px;
   position: relative;
   width: 30%;
+  background-color: lightgreen;
 }
 
 .block-quarter {
@@ -44,6 +47,7 @@ h1,h2,h3,h4,h5,h6 {
   padding: 2px;
   position: relative;
   width: 22%;
+  background-color: aliceblue;
 }
 
 .shadow {
